@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Abner Macedo 🙋🏻
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abner-macedo-60144a277)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com)
  
 ![AbnerMacedo GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerMacedo&show_icons=true&theme=transparent)
  
