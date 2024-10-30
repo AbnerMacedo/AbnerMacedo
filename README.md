@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Abner Macedo 🙋🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-macedo-60144a277)
  
-![Abner Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerMacedo&show_icons=true&theme=transparent&hide_title=true)
+![Abner Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerMacedo&show_icons=true&theme=transparent&custom_title=Abner Macedo GitHub Stats)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerMacedo&hide_progress=true)
  
